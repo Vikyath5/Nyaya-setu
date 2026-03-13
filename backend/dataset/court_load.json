@@ -1,0 +1,55 @@
+{
+  "Supreme Court": {
+    "pending_cases": 80000,
+    "backlog_delay_months": 4,
+    "load_level": "Very High"
+  },
+
+  "Delhi High Court": {
+    "pending_cases": 520000,
+    "backlog_delay_months": 3,
+    "load_level": "High"
+  },
+
+  "Bombay High Court": {
+    "pending_cases": 410000,
+    "backlog_delay_months": 3,
+    "load_level": "High"
+  },
+
+  "Karnataka High Court": {
+    "pending_cases": 300000,
+    "backlog_delay_months": 2,
+    "load_level": "Moderate"
+  },
+
+  "Madras High Court": {
+    "pending_cases": 450000,
+    "backlog_delay_months": 3,
+    "load_level": "High"
+  },
+
+  "Calcutta High Court": {
+    "pending_cases": 380000,
+    "backlog_delay_months": 2,
+    "load_level": "Moderate"
+  },
+
+  "District Court": {
+    "pending_cases": 30000000,
+    "backlog_delay_months": 1,
+    "load_level": "Moderate"
+  },
+
+  "Consumer Court": {
+    "pending_cases": 120000,
+    "backlog_delay_months": 1,
+    "load_level": "Low"
+  },
+
+  "Family Court": {
+    "pending_cases": 90000,
+    "backlog_delay_months": 1,
+    "load_level": "Low"
+  }
+}
