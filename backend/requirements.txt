@@ -1,3 +1,7 @@
+fastapi
+uvicorn
 sentence-transformers
-torch
+scikit-learn
 numpy
+pandas
+pydantic
