@@ -1,0 +1,2162 @@
+[
+  {
+    "case_id": 1,
+    "title": "Labour Dispute Case 1",
+    "summary": "Employee reported unpaid overtime wages by employer.",
+    "case_type": "labour dispute",
+    "court": "Delhi High Court",
+    "year": 2019,
+    "first_hearing_months": 1,
+    "resolution_time_months": 10,
+    "outcome": "employee won",
+    "recommended_action": "approach_labour_commissioner",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "employment contract",
+      "salary slips",
+      "bank statements"
+    ]
+  },
+  {
+    "case_id": 2,
+    "title": "Labour Dispute Case 2",
+    "summary": "Employee filed complaint alleging unpaid salary for several months.",
+    "case_type": "labour dispute",
+    "court": "Madras High Court",
+    "year": 2020,
+    "first_hearing_months": 1,
+    "resolution_time_months": 17,
+    "outcome": "settlement",
+    "recommended_action": "approach_labour_commissioner",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "employment contract",
+      "salary slips",
+      "bank statements"
+    ]
+  },
+  {
+    "case_id": 3,
+    "title": "Labour Dispute Case 3",
+    "summary": "Employee reported unpaid overtime wages by employer.",
+    "case_type": "labour dispute",
+    "court": "Karnataka High Court",
+    "year": 2023,
+    "first_hearing_months": 1,
+    "resolution_time_months": 17,
+    "outcome": "settlement",
+    "recommended_action": "approach_labour_commissioner",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "employment contract",
+      "salary slips",
+      "bank statements"
+    ]
+  },
+  {
+    "case_id": 4,
+    "title": "Labour Dispute Case 4",
+    "summary": "Worker requested reinstatement after termination dispute.",
+    "case_type": "labour dispute",
+    "court": "Karnataka High Court",
+    "year": 2021,
+    "first_hearing_months": 1,
+    "resolution_time_months": 16,
+    "outcome": "employee won",
+    "recommended_action": "approach_labour_commissioner",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "employment contract",
+      "salary slips",
+      "bank statements"
+    ]
+  },
+  {
+    "case_id": 5,
+    "title": "Labour Dispute Case 5",
+    "summary": "Employee reported unpaid overtime wages by employer.",
+    "case_type": "labour dispute",
+    "court": "Karnataka High Court",
+    "year": 2020,
+    "first_hearing_months": 1,
+    "resolution_time_months": 16,
+    "outcome": "employee won",
+    "recommended_action": "approach_labour_commissioner",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "employment contract",
+      "salary slips",
+      "bank statements"
+    ]
+  },
+  {
+    "case_id": 6,
+    "title": "Labour Dispute Case 6",
+    "summary": "Employee filed complaint alleging unpaid salary for several months.",
+    "case_type": "labour dispute",
+    "court": "Bombay High Court",
+    "year": 2019,
+    "first_hearing_months": 1,
+    "resolution_time_months": 12,
+    "outcome": "employee won",
+    "recommended_action": "approach_labour_commissioner",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "employment contract",
+      "salary slips",
+      "bank statements"
+    ]
+  },
+  {
+    "case_id": 7,
+    "title": "Labour Dispute Case 7",
+    "summary": "Employee reported unpaid overtime wages by employer.",
+    "case_type": "labour dispute",
+    "court": "Madras High Court",
+    "year": 2017,
+    "first_hearing_months": 1,
+    "resolution_time_months": 11,
+    "outcome": "employee won",
+    "recommended_action": "approach_labour_commissioner",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "employment contract",
+      "salary slips",
+      "bank statements"
+    ]
+  },
+  {
+    "case_id": 8,
+    "title": "Labour Dispute Case 8",
+    "summary": "Contract employee claimed employer delayed wage payments.",
+    "case_type": "labour dispute",
+    "court": "Karnataka High Court",
+    "year": 2017,
+    "first_hearing_months": 2,
+    "resolution_time_months": 17,
+    "outcome": "employee won",
+    "recommended_action": "approach_labour_commissioner",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "employment contract",
+      "salary slips",
+      "bank statements"
+    ]
+  },
+  {
+    "case_id": 9,
+    "title": "Labour Dispute Case 9",
+    "summary": "Contract employee claimed employer delayed wage payments.",
+    "case_type": "labour dispute",
+    "court": "Karnataka High Court",
+    "year": 2019,
+    "first_hearing_months": 2,
+    "resolution_time_months": 13,
+    "outcome": "settlement",
+    "recommended_action": "approach_labour_commissioner",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "employment contract",
+      "salary slips",
+      "bank statements"
+    ]
+  },
+  {
+    "case_id": 10,
+    "title": "Labour Dispute Case 10",
+    "summary": "Employee reported unpaid overtime wages by employer.",
+    "case_type": "labour dispute",
+    "court": "Karnataka High Court",
+    "year": 2021,
+    "first_hearing_months": 1,
+    "resolution_time_months": 11,
+    "outcome": "employee won",
+    "recommended_action": "approach_labour_commissioner",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "employment contract",
+      "salary slips",
+      "bank statements"
+    ]
+  },
+  {
+    "case_id": 11,
+    "title": "Labour Dispute Case 11",
+    "summary": "Worker challenged termination without proper notice.",
+    "case_type": "labour dispute",
+    "court": "Madras High Court",
+    "year": 2020,
+    "first_hearing_months": 1,
+    "resolution_time_months": 17,
+    "outcome": "employee won",
+    "recommended_action": "approach_labour_commissioner",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "employment contract",
+      "salary slips",
+      "bank statements"
+    ]
+  },
+  {
+    "case_id": 12,
+    "title": "Labour Dispute Case 12",
+    "summary": "Employee filed complaint alleging unpaid salary for several months.",
+    "case_type": "labour dispute",
+    "court": "Delhi High Court",
+    "year": 2018,
+    "first_hearing_months": 1,
+    "resolution_time_months": 10,
+    "outcome": "settlement",
+    "recommended_action": "approach_labour_commissioner",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "employment contract",
+      "salary slips",
+      "bank statements"
+    ]
+  },
+  {
+    "case_id": 13,
+    "title": "Labour Dispute Case 13",
+    "summary": "Worker requested reinstatement after termination dispute.",
+    "case_type": "labour dispute",
+    "court": "Delhi High Court",
+    "year": 2021,
+    "first_hearing_months": 2,
+    "resolution_time_months": 14,
+    "outcome": "settlement",
+    "recommended_action": "approach_labour_commissioner",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "employment contract",
+      "salary slips",
+      "bank statements"
+    ]
+  },
+  {
+    "case_id": 14,
+    "title": "Labour Dispute Case 14",
+    "summary": "Worker challenged termination without proper notice.",
+    "case_type": "labour dispute",
+    "court": "Karnataka High Court",
+    "year": 2020,
+    "first_hearing_months": 2,
+    "resolution_time_months": 17,
+    "outcome": "settlement",
+    "recommended_action": "approach_labour_commissioner",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "employment contract",
+      "salary slips",
+      "bank statements"
+    ]
+  },
+  {
+    "case_id": 15,
+    "title": "Labour Dispute Case 15",
+    "summary": "Employee filed complaint alleging unpaid salary for several months.",
+    "case_type": "labour dispute",
+    "court": "Madras High Court",
+    "year": 2022,
+    "first_hearing_months": 2,
+    "resolution_time_months": 14,
+    "outcome": "employee won",
+    "recommended_action": "approach_labour_commissioner",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "employment contract",
+      "salary slips",
+      "bank statements"
+    ]
+  },
+  {
+    "case_id": 16,
+    "title": "Labour Dispute Case 16",
+    "summary": "Worker requested reinstatement after termination dispute.",
+    "case_type": "labour dispute",
+    "court": "Karnataka High Court",
+    "year": 2023,
+    "first_hearing_months": 2,
+    "resolution_time_months": 13,
+    "outcome": "employee won",
+    "recommended_action": "approach_labour_commissioner",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "employment contract",
+      "salary slips",
+      "bank statements"
+    ]
+  },
+  {
+    "case_id": 17,
+    "title": "Labour Dispute Case 17",
+    "summary": "Contract employee claimed employer delayed wage payments.",
+    "case_type": "labour dispute",
+    "court": "Karnataka High Court",
+    "year": 2019,
+    "first_hearing_months": 2,
+    "resolution_time_months": 16,
+    "outcome": "settlement",
+    "recommended_action": "approach_labour_commissioner",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "employment contract",
+      "salary slips",
+      "bank statements"
+    ]
+  },
+  {
+    "case_id": 18,
+    "title": "Labour Dispute Case 18",
+    "summary": "Worker requested reinstatement after termination dispute.",
+    "case_type": "labour dispute",
+    "court": "Karnataka High Court",
+    "year": 2023,
+    "first_hearing_months": 2,
+    "resolution_time_months": 17,
+    "outcome": "settlement",
+    "recommended_action": "approach_labour_commissioner",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "employment contract",
+      "salary slips",
+      "bank statements"
+    ]
+  },
+  {
+    "case_id": 19,
+    "title": "Labour Dispute Case 19",
+    "summary": "Employee reported unpaid overtime wages by employer.",
+    "case_type": "labour dispute",
+    "court": "Madras High Court",
+    "year": 2021,
+    "first_hearing_months": 1,
+    "resolution_time_months": 17,
+    "outcome": "settlement",
+    "recommended_action": "approach_labour_commissioner",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "employment contract",
+      "salary slips",
+      "bank statements"
+    ]
+  },
+  {
+    "case_id": 20,
+    "title": "Labour Dispute Case 20",
+    "summary": "Contract employee claimed employer delayed wage payments.",
+    "case_type": "labour dispute",
+    "court": "Karnataka High Court",
+    "year": 2020,
+    "first_hearing_months": 2,
+    "resolution_time_months": 11,
+    "outcome": "employee won",
+    "recommended_action": "approach_labour_commissioner",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "employment contract",
+      "salary slips",
+      "bank statements"
+    ]
+  },
+  {
+    "case_id": 21,
+    "title": "Property Dispute Case 1",
+    "summary": "Family members contested inheritance rights over property.",
+    "case_type": "property dispute",
+    "court": "Karnataka High Court",
+    "year": 2018,
+    "first_hearing_months": 3,
+    "resolution_time_months": 34,
+    "outcome": "defendant won",
+    "recommended_action": "file_case",
+    "resolution_method": "court",
+    "documents_required": [
+      "property deed",
+      "land registration documents",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 22,
+    "title": "Property Dispute Case 2",
+    "summary": "Neighbours disputed land boundary between adjacent plots.",
+    "case_type": "property dispute",
+    "court": "Delhi High Court",
+    "year": 2022,
+    "first_hearing_months": 3,
+    "resolution_time_months": 27,
+    "outcome": "settlement",
+    "recommended_action": "file_case",
+    "resolution_method": "court",
+    "documents_required": [
+      "property deed",
+      "land registration documents",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 23,
+    "title": "Property Dispute Case 3",
+    "summary": "Two parties disputed ownership of agricultural land.",
+    "case_type": "property dispute",
+    "court": "Delhi High Court",
+    "year": 2021,
+    "first_hearing_months": 2,
+    "resolution_time_months": 25,
+    "outcome": "investigation ordered",
+    "recommended_action": "file_case",
+    "resolution_method": "court",
+    "documents_required": [
+      "property deed",
+      "land registration documents",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 24,
+    "title": "Property Dispute Case 4",
+    "summary": "Neighbours disputed land boundary between adjacent plots.",
+    "case_type": "property dispute",
+    "court": "Karnataka High Court",
+    "year": 2021,
+    "first_hearing_months": 3,
+    "resolution_time_months": 18,
+    "outcome": "investigation ordered",
+    "recommended_action": "file_case",
+    "resolution_method": "court",
+    "documents_required": [
+      "property deed",
+      "land registration documents",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 25,
+    "title": "Property Dispute Case 5",
+    "summary": "Dispute arose regarding registration of property ownership.",
+    "case_type": "property dispute",
+    "court": "Karnataka High Court",
+    "year": 2017,
+    "first_hearing_months": 3,
+    "resolution_time_months": 34,
+    "outcome": "investigation ordered",
+    "recommended_action": "file_case",
+    "resolution_method": "court",
+    "documents_required": [
+      "property deed",
+      "land registration documents",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 26,
+    "title": "Property Dispute Case 6",
+    "summary": "Two parties disputed ownership of agricultural land.",
+    "case_type": "property dispute",
+    "court": "Punjab High Court",
+    "year": 2020,
+    "first_hearing_months": 2,
+    "resolution_time_months": 26,
+    "outcome": "investigation ordered",
+    "recommended_action": "file_case",
+    "resolution_method": "court",
+    "documents_required": [
+      "property deed",
+      "land registration documents",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 27,
+    "title": "Property Dispute Case 7",
+    "summary": "Neighbours disputed land boundary between adjacent plots.",
+    "case_type": "property dispute",
+    "court": "Delhi High Court",
+    "year": 2020,
+    "first_hearing_months": 2,
+    "resolution_time_months": 36,
+    "outcome": "investigation ordered",
+    "recommended_action": "file_case",
+    "resolution_method": "court",
+    "documents_required": [
+      "property deed",
+      "land registration documents",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 28,
+    "title": "Property Dispute Case 8",
+    "summary": "Family members contested inheritance rights over property.",
+    "case_type": "property dispute",
+    "court": "Punjab High Court",
+    "year": 2019,
+    "first_hearing_months": 3,
+    "resolution_time_months": 36,
+    "outcome": "settlement",
+    "recommended_action": "file_case",
+    "resolution_method": "court",
+    "documents_required": [
+      "property deed",
+      "land registration documents",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 29,
+    "title": "Property Dispute Case 9",
+    "summary": "Neighbours disputed land boundary between adjacent plots.",
+    "case_type": "property dispute",
+    "court": "Punjab High Court",
+    "year": 2020,
+    "first_hearing_months": 2,
+    "resolution_time_months": 19,
+    "outcome": "defendant won",
+    "recommended_action": "file_case",
+    "resolution_method": "court",
+    "documents_required": [
+      "property deed",
+      "land registration documents",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 30,
+    "title": "Property Dispute Case 10",
+    "summary": "Family members contested inheritance rights over property.",
+    "case_type": "property dispute",
+    "court": "Karnataka High Court",
+    "year": 2021,
+    "first_hearing_months": 2,
+    "resolution_time_months": 32,
+    "outcome": "settlement",
+    "recommended_action": "file_case",
+    "resolution_method": "court",
+    "documents_required": [
+      "property deed",
+      "land registration documents",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 31,
+    "title": "Property Dispute Case 11",
+    "summary": "Buyer alleged fraudulent property sale by seller.",
+    "case_type": "property dispute",
+    "court": "Punjab High Court",
+    "year": 2022,
+    "first_hearing_months": 3,
+    "resolution_time_months": 18,
+    "outcome": "investigation ordered",
+    "recommended_action": "file_case",
+    "resolution_method": "court",
+    "documents_required": [
+      "property deed",
+      "land registration documents",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 32,
+    "title": "Property Dispute Case 12",
+    "summary": "Buyer alleged fraudulent property sale by seller.",
+    "case_type": "property dispute",
+    "court": "Karnataka High Court",
+    "year": 2019,
+    "first_hearing_months": 2,
+    "resolution_time_months": 35,
+    "outcome": "investigation ordered",
+    "recommended_action": "file_case",
+    "resolution_method": "court",
+    "documents_required": [
+      "property deed",
+      "land registration documents",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 33,
+    "title": "Property Dispute Case 13",
+    "summary": "Dispute arose regarding registration of property ownership.",
+    "case_type": "property dispute",
+    "court": "Allahabad High Court",
+    "year": 2022,
+    "first_hearing_months": 2,
+    "resolution_time_months": 26,
+    "outcome": "investigation ordered",
+    "recommended_action": "file_case",
+    "resolution_method": "court",
+    "documents_required": [
+      "property deed",
+      "land registration documents",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 34,
+    "title": "Property Dispute Case 14",
+    "summary": "Buyer alleged fraudulent property sale by seller.",
+    "case_type": "property dispute",
+    "court": "Delhi High Court",
+    "year": 2019,
+    "first_hearing_months": 2,
+    "resolution_time_months": 30,
+    "outcome": "investigation ordered",
+    "recommended_action": "file_case",
+    "resolution_method": "court",
+    "documents_required": [
+      "property deed",
+      "land registration documents",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 35,
+    "title": "Property Dispute Case 15",
+    "summary": "Two parties disputed ownership of agricultural land.",
+    "case_type": "property dispute",
+    "court": "Karnataka High Court",
+    "year": 2019,
+    "first_hearing_months": 2,
+    "resolution_time_months": 23,
+    "outcome": "settlement",
+    "recommended_action": "file_case",
+    "resolution_method": "court",
+    "documents_required": [
+      "property deed",
+      "land registration documents",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 36,
+    "title": "Property Dispute Case 16",
+    "summary": "Buyer alleged fraudulent property sale by seller.",
+    "case_type": "property dispute",
+    "court": "Allahabad High Court",
+    "year": 2020,
+    "first_hearing_months": 2,
+    "resolution_time_months": 33,
+    "outcome": "settlement",
+    "recommended_action": "file_case",
+    "resolution_method": "court",
+    "documents_required": [
+      "property deed",
+      "land registration documents",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 37,
+    "title": "Property Dispute Case 17",
+    "summary": "Dispute arose regarding registration of property ownership.",
+    "case_type": "property dispute",
+    "court": "Punjab High Court",
+    "year": 2022,
+    "first_hearing_months": 2,
+    "resolution_time_months": 18,
+    "outcome": "settlement",
+    "recommended_action": "file_case",
+    "resolution_method": "court",
+    "documents_required": [
+      "property deed",
+      "land registration documents",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 38,
+    "title": "Property Dispute Case 18",
+    "summary": "Two parties disputed ownership of agricultural land.",
+    "case_type": "property dispute",
+    "court": "Karnataka High Court",
+    "year": 2019,
+    "first_hearing_months": 2,
+    "resolution_time_months": 35,
+    "outcome": "defendant won",
+    "recommended_action": "file_case",
+    "resolution_method": "court",
+    "documents_required": [
+      "property deed",
+      "land registration documents",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 39,
+    "title": "Property Dispute Case 19",
+    "summary": "Family members contested inheritance rights over property.",
+    "case_type": "property dispute",
+    "court": "Punjab High Court",
+    "year": 2017,
+    "first_hearing_months": 3,
+    "resolution_time_months": 32,
+    "outcome": "settlement",
+    "recommended_action": "file_case",
+    "resolution_method": "court",
+    "documents_required": [
+      "property deed",
+      "land registration documents",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 40,
+    "title": "Property Dispute Case 20",
+    "summary": "Dispute arose regarding registration of property ownership.",
+    "case_type": "property dispute",
+    "court": "Delhi High Court",
+    "year": 2019,
+    "first_hearing_months": 3,
+    "resolution_time_months": 20,
+    "outcome": "settlement",
+    "recommended_action": "file_case",
+    "resolution_method": "court",
+    "documents_required": [
+      "property deed",
+      "land registration documents",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 41,
+    "title": "Consumer Complaint Case 1",
+    "summary": "Buyer claimed seller denied refund for defective item.",
+    "case_type": "consumer complaint",
+    "court": "State Consumer Commission",
+    "year": 2019,
+    "first_hearing_months": 1,
+    "resolution_time_months": 11,
+    "outcome": "consumer won",
+    "recommended_action": "file_consumer_complaint",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "purchase invoice",
+      "warranty card",
+      "product photos"
+    ]
+  },
+  {
+    "case_id": 42,
+    "title": "Consumer Complaint Case 2",
+    "summary": "Buyer claimed seller denied refund for defective item.",
+    "case_type": "consumer complaint",
+    "court": "Consumer Disputes Redressal Commission",
+    "year": 2023,
+    "first_hearing_months": 1,
+    "resolution_time_months": 6,
+    "outcome": "consumer won",
+    "recommended_action": "file_consumer_complaint",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "purchase invoice",
+      "warranty card",
+      "product photos"
+    ]
+  },
+  {
+    "case_id": 43,
+    "title": "Consumer Complaint Case 3",
+    "summary": "Consumer reported defective appliance purchased recently.",
+    "case_type": "consumer complaint",
+    "court": "Consumer Disputes Redressal Commission",
+    "year": 2017,
+    "first_hearing_months": 1,
+    "resolution_time_months": 6,
+    "outcome": "consumer won",
+    "recommended_action": "file_consumer_complaint",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "purchase invoice",
+      "warranty card",
+      "product photos"
+    ]
+  },
+  {
+    "case_id": 44,
+    "title": "Consumer Complaint Case 4",
+    "summary": "Consumer reported defective appliance purchased recently.",
+    "case_type": "consumer complaint",
+    "court": "State Consumer Commission",
+    "year": 2018,
+    "first_hearing_months": 1,
+    "resolution_time_months": 11,
+    "outcome": "consumer won",
+    "recommended_action": "file_consumer_complaint",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "purchase invoice",
+      "warranty card",
+      "product photos"
+    ]
+  },
+  {
+    "case_id": 45,
+    "title": "Consumer Complaint Case 5",
+    "summary": "Consumer reported defective appliance purchased recently.",
+    "case_type": "consumer complaint",
+    "court": "State Consumer Commission",
+    "year": 2021,
+    "first_hearing_months": 1,
+    "resolution_time_months": 6,
+    "outcome": "settlement",
+    "recommended_action": "file_consumer_complaint",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "purchase invoice",
+      "warranty card",
+      "product photos"
+    ]
+  },
+  {
+    "case_id": 46,
+    "title": "Consumer Complaint Case 6",
+    "summary": "Customer complained about faulty mobile phone device.",
+    "case_type": "consumer complaint",
+    "court": "Consumer Disputes Redressal Commission",
+    "year": 2017,
+    "first_hearing_months": 1,
+    "resolution_time_months": 11,
+    "outcome": "consumer won",
+    "recommended_action": "file_consumer_complaint",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "purchase invoice",
+      "warranty card",
+      "product photos"
+    ]
+  },
+  {
+    "case_id": 47,
+    "title": "Consumer Complaint Case 7",
+    "summary": "Buyer claimed seller denied refund for defective item.",
+    "case_type": "consumer complaint",
+    "court": "State Consumer Commission",
+    "year": 2018,
+    "first_hearing_months": 1,
+    "resolution_time_months": 10,
+    "outcome": "consumer won",
+    "recommended_action": "file_consumer_complaint",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "purchase invoice",
+      "warranty card",
+      "product photos"
+    ]
+  },
+  {
+    "case_id": 48,
+    "title": "Consumer Complaint Case 8",
+    "summary": "Customer reported delayed delivery of purchased product.",
+    "case_type": "consumer complaint",
+    "court": "Consumer Disputes Redressal Commission",
+    "year": 2019,
+    "first_hearing_months": 1,
+    "resolution_time_months": 6,
+    "outcome": "consumer won",
+    "recommended_action": "file_consumer_complaint",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "purchase invoice",
+      "warranty card",
+      "product photos"
+    ]
+  },
+  {
+    "case_id": 49,
+    "title": "Consumer Complaint Case 9",
+    "summary": "Consumer reported defective appliance purchased recently.",
+    "case_type": "consumer complaint",
+    "court": "Consumer Disputes Redressal Commission",
+    "year": 2021,
+    "first_hearing_months": 1,
+    "resolution_time_months": 6,
+    "outcome": "consumer won",
+    "recommended_action": "file_consumer_complaint",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "purchase invoice",
+      "warranty card",
+      "product photos"
+    ]
+  },
+  {
+    "case_id": 50,
+    "title": "Consumer Complaint Case 10",
+    "summary": "Consumer alleged company refused warranty service.",
+    "case_type": "consumer complaint",
+    "court": "Consumer Disputes Redressal Commission",
+    "year": 2019,
+    "first_hearing_months": 1,
+    "resolution_time_months": 9,
+    "outcome": "settlement",
+    "recommended_action": "file_consumer_complaint",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "purchase invoice",
+      "warranty card",
+      "product photos"
+    ]
+  },
+  {
+    "case_id": 51,
+    "title": "Consumer Complaint Case 11",
+    "summary": "Buyer claimed seller denied refund for defective item.",
+    "case_type": "consumer complaint",
+    "court": "Consumer Disputes Redressal Commission",
+    "year": 2019,
+    "first_hearing_months": 1,
+    "resolution_time_months": 8,
+    "outcome": "settlement",
+    "recommended_action": "file_consumer_complaint",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "purchase invoice",
+      "warranty card",
+      "product photos"
+    ]
+  },
+  {
+    "case_id": 52,
+    "title": "Consumer Complaint Case 12",
+    "summary": "Buyer claimed seller denied refund for defective item.",
+    "case_type": "consumer complaint",
+    "court": "State Consumer Commission",
+    "year": 2020,
+    "first_hearing_months": 1,
+    "resolution_time_months": 11,
+    "outcome": "settlement",
+    "recommended_action": "file_consumer_complaint",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "purchase invoice",
+      "warranty card",
+      "product photos"
+    ]
+  },
+  {
+    "case_id": 53,
+    "title": "Consumer Complaint Case 13",
+    "summary": "Customer complained about faulty mobile phone device.",
+    "case_type": "consumer complaint",
+    "court": "State Consumer Commission",
+    "year": 2022,
+    "first_hearing_months": 1,
+    "resolution_time_months": 6,
+    "outcome": "consumer won",
+    "recommended_action": "file_consumer_complaint",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "purchase invoice",
+      "warranty card",
+      "product photos"
+    ]
+  },
+  {
+    "case_id": 54,
+    "title": "Consumer Complaint Case 14",
+    "summary": "Consumer alleged company refused warranty service.",
+    "case_type": "consumer complaint",
+    "court": "Consumer Disputes Redressal Commission",
+    "year": 2018,
+    "first_hearing_months": 1,
+    "resolution_time_months": 11,
+    "outcome": "settlement",
+    "recommended_action": "file_consumer_complaint",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "purchase invoice",
+      "warranty card",
+      "product photos"
+    ]
+  },
+  {
+    "case_id": 55,
+    "title": "Consumer Complaint Case 15",
+    "summary": "Consumer alleged company refused warranty service.",
+    "case_type": "consumer complaint",
+    "court": "State Consumer Commission",
+    "year": 2022,
+    "first_hearing_months": 1,
+    "resolution_time_months": 11,
+    "outcome": "settlement",
+    "recommended_action": "file_consumer_complaint",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "purchase invoice",
+      "warranty card",
+      "product photos"
+    ]
+  },
+  {
+    "case_id": 56,
+    "title": "Consumer Complaint Case 16",
+    "summary": "Buyer claimed seller denied refund for defective item.",
+    "case_type": "consumer complaint",
+    "court": "State Consumer Commission",
+    "year": 2019,
+    "first_hearing_months": 1,
+    "resolution_time_months": 8,
+    "outcome": "settlement",
+    "recommended_action": "file_consumer_complaint",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "purchase invoice",
+      "warranty card",
+      "product photos"
+    ]
+  },
+  {
+    "case_id": 57,
+    "title": "Consumer Complaint Case 17",
+    "summary": "Consumer alleged company refused warranty service.",
+    "case_type": "consumer complaint",
+    "court": "State Consumer Commission",
+    "year": 2022,
+    "first_hearing_months": 1,
+    "resolution_time_months": 9,
+    "outcome": "settlement",
+    "recommended_action": "file_consumer_complaint",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "purchase invoice",
+      "warranty card",
+      "product photos"
+    ]
+  },
+  {
+    "case_id": 58,
+    "title": "Consumer Complaint Case 18",
+    "summary": "Customer reported delayed delivery of purchased product.",
+    "case_type": "consumer complaint",
+    "court": "State Consumer Commission",
+    "year": 2019,
+    "first_hearing_months": 1,
+    "resolution_time_months": 12,
+    "outcome": "consumer won",
+    "recommended_action": "file_consumer_complaint",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "purchase invoice",
+      "warranty card",
+      "product photos"
+    ]
+  },
+  {
+    "case_id": 59,
+    "title": "Consumer Complaint Case 19",
+    "summary": "Consumer alleged company refused warranty service.",
+    "case_type": "consumer complaint",
+    "court": "Consumer Disputes Redressal Commission",
+    "year": 2020,
+    "first_hearing_months": 1,
+    "resolution_time_months": 6,
+    "outcome": "consumer won",
+    "recommended_action": "file_consumer_complaint",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "purchase invoice",
+      "warranty card",
+      "product photos"
+    ]
+  },
+  {
+    "case_id": 60,
+    "title": "Consumer Complaint Case 20",
+    "summary": "Customer complained about faulty mobile phone device.",
+    "case_type": "consumer complaint",
+    "court": "State Consumer Commission",
+    "year": 2019,
+    "first_hearing_months": 1,
+    "resolution_time_months": 12,
+    "outcome": "settlement",
+    "recommended_action": "file_consumer_complaint",
+    "resolution_method": "administrative",
+    "documents_required": [
+      "purchase invoice",
+      "warranty card",
+      "product photos"
+    ]
+  },
+  {
+    "case_id": 61,
+    "title": "Tenant Dispute Case 1",
+    "summary": "Landlord claimed tenant failed to pay monthly rent.",
+    "case_type": "tenant dispute",
+    "court": "Bangalore Civil Court",
+    "year": 2022,
+    "first_hearing_months": 2,
+    "resolution_time_months": 13,
+    "outcome": "settlement",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "rental agreement",
+      "payment receipts",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 62,
+    "title": "Tenant Dispute Case 2",
+    "summary": "Tenant complained about illegal eviction attempt.",
+    "case_type": "tenant dispute",
+    "court": "Bangalore Civil Court",
+    "year": 2017,
+    "first_hearing_months": 1,
+    "resolution_time_months": 14,
+    "outcome": "tenant won",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "rental agreement",
+      "payment receipts",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 63,
+    "title": "Tenant Dispute Case 3",
+    "summary": "Landlord claimed tenant failed to pay monthly rent.",
+    "case_type": "tenant dispute",
+    "court": "Delhi Civil Court",
+    "year": 2019,
+    "first_hearing_months": 1,
+    "resolution_time_months": 12,
+    "outcome": "defendant won",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "rental agreement",
+      "payment receipts",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 64,
+    "title": "Tenant Dispute Case 4",
+    "summary": "Landlord claimed tenant failed to pay monthly rent.",
+    "case_type": "tenant dispute",
+    "court": "Delhi Civil Court",
+    "year": 2018,
+    "first_hearing_months": 1,
+    "resolution_time_months": 13,
+    "outcome": "settlement",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "rental agreement",
+      "payment receipts",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 65,
+    "title": "Tenant Dispute Case 5",
+    "summary": "Tenant complained about illegal eviction attempt.",
+    "case_type": "tenant dispute",
+    "court": "Delhi Civil Court",
+    "year": 2020,
+    "first_hearing_months": 2,
+    "resolution_time_months": 14,
+    "outcome": "tenant won",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "rental agreement",
+      "payment receipts",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 66,
+    "title": "Tenant Dispute Case 6",
+    "summary": "Dispute arose regarding rent increase in rental agreement.",
+    "case_type": "tenant dispute",
+    "court": "Delhi Civil Court",
+    "year": 2017,
+    "first_hearing_months": 2,
+    "resolution_time_months": 12,
+    "outcome": "settlement",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "rental agreement",
+      "payment receipts",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 67,
+    "title": "Tenant Dispute Case 7",
+    "summary": "Dispute arose regarding rent increase in rental agreement.",
+    "case_type": "tenant dispute",
+    "court": "Mumbai Civil Court",
+    "year": 2017,
+    "first_hearing_months": 1,
+    "resolution_time_months": 13,
+    "outcome": "defendant won",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "rental agreement",
+      "payment receipts",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 68,
+    "title": "Tenant Dispute Case 8",
+    "summary": "Landlord claimed tenant failed to pay monthly rent.",
+    "case_type": "tenant dispute",
+    "court": "Delhi Civil Court",
+    "year": 2017,
+    "first_hearing_months": 1,
+    "resolution_time_months": 11,
+    "outcome": "settlement",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "rental agreement",
+      "payment receipts",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 69,
+    "title": "Tenant Dispute Case 9",
+    "summary": "Landlord claimed tenant failed to pay monthly rent.",
+    "case_type": "tenant dispute",
+    "court": "Mumbai Civil Court",
+    "year": 2021,
+    "first_hearing_months": 1,
+    "resolution_time_months": 11,
+    "outcome": "tenant won",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "rental agreement",
+      "payment receipts",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 70,
+    "title": "Tenant Dispute Case 10",
+    "summary": "Tenant alleged landlord refused to return security deposit.",
+    "case_type": "tenant dispute",
+    "court": "Bangalore Civil Court",
+    "year": 2021,
+    "first_hearing_months": 1,
+    "resolution_time_months": 9,
+    "outcome": "settlement",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "rental agreement",
+      "payment receipts",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 71,
+    "title": "Tenant Dispute Case 11",
+    "summary": "Tenant challenged eviction notice from landlord.",
+    "case_type": "tenant dispute",
+    "court": "Bangalore Civil Court",
+    "year": 2023,
+    "first_hearing_months": 1,
+    "resolution_time_months": 11,
+    "outcome": "defendant won",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "rental agreement",
+      "payment receipts",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 72,
+    "title": "Tenant Dispute Case 12",
+    "summary": "Landlord claimed tenant failed to pay monthly rent.",
+    "case_type": "tenant dispute",
+    "court": "Mumbai Civil Court",
+    "year": 2019,
+    "first_hearing_months": 2,
+    "resolution_time_months": 12,
+    "outcome": "defendant won",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "rental agreement",
+      "payment receipts",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 73,
+    "title": "Tenant Dispute Case 13",
+    "summary": "Dispute arose regarding rent increase in rental agreement.",
+    "case_type": "tenant dispute",
+    "court": "Delhi Civil Court",
+    "year": 2020,
+    "first_hearing_months": 2,
+    "resolution_time_months": 8,
+    "outcome": "settlement",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "rental agreement",
+      "payment receipts",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 74,
+    "title": "Tenant Dispute Case 14",
+    "summary": "Tenant alleged landlord refused to return security deposit.",
+    "case_type": "tenant dispute",
+    "court": "Bangalore Civil Court",
+    "year": 2021,
+    "first_hearing_months": 2,
+    "resolution_time_months": 14,
+    "outcome": "defendant won",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "rental agreement",
+      "payment receipts",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 75,
+    "title": "Tenant Dispute Case 15",
+    "summary": "Dispute arose regarding rent increase in rental agreement.",
+    "case_type": "tenant dispute",
+    "court": "Bangalore Civil Court",
+    "year": 2020,
+    "first_hearing_months": 1,
+    "resolution_time_months": 14,
+    "outcome": "defendant won",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "rental agreement",
+      "payment receipts",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 76,
+    "title": "Tenant Dispute Case 16",
+    "summary": "Landlord claimed tenant failed to pay monthly rent.",
+    "case_type": "tenant dispute",
+    "court": "Delhi Civil Court",
+    "year": 2021,
+    "first_hearing_months": 1,
+    "resolution_time_months": 8,
+    "outcome": "settlement",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "rental agreement",
+      "payment receipts",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 77,
+    "title": "Tenant Dispute Case 17",
+    "summary": "Dispute arose regarding rent increase in rental agreement.",
+    "case_type": "tenant dispute",
+    "court": "Bangalore Civil Court",
+    "year": 2017,
+    "first_hearing_months": 2,
+    "resolution_time_months": 12,
+    "outcome": "settlement",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "rental agreement",
+      "payment receipts",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 78,
+    "title": "Tenant Dispute Case 18",
+    "summary": "Dispute arose regarding rent increase in rental agreement.",
+    "case_type": "tenant dispute",
+    "court": "Bangalore Civil Court",
+    "year": 2022,
+    "first_hearing_months": 1,
+    "resolution_time_months": 9,
+    "outcome": "defendant won",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "rental agreement",
+      "payment receipts",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 79,
+    "title": "Tenant Dispute Case 19",
+    "summary": "Landlord claimed tenant failed to pay monthly rent.",
+    "case_type": "tenant dispute",
+    "court": "Bangalore Civil Court",
+    "year": 2021,
+    "first_hearing_months": 2,
+    "resolution_time_months": 13,
+    "outcome": "settlement",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "rental agreement",
+      "payment receipts",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 80,
+    "title": "Tenant Dispute Case 20",
+    "summary": "Tenant complained about illegal eviction attempt.",
+    "case_type": "tenant dispute",
+    "court": "Bangalore Civil Court",
+    "year": 2021,
+    "first_hearing_months": 1,
+    "resolution_time_months": 11,
+    "outcome": "defendant won",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "rental agreement",
+      "payment receipts",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 81,
+    "title": "Financial Fraud Case 1",
+    "summary": "Customer reported digital payment scam through mobile app.",
+    "case_type": "financial fraud",
+    "court": "Mumbai High Court",
+    "year": 2019,
+    "first_hearing_months": 3,
+    "resolution_time_months": 18,
+    "outcome": "investigation ordered",
+    "recommended_action": "approach_police",
+    "resolution_method": "police",
+    "documents_required": [
+      "bank statements",
+      "transaction records",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 82,
+    "title": "Financial Fraud Case 2",
+    "summary": "Customer reported digital payment scam through mobile app.",
+    "case_type": "financial fraud",
+    "court": "Delhi High Court",
+    "year": 2023,
+    "first_hearing_months": 3,
+    "resolution_time_months": 18,
+    "outcome": "settlement",
+    "recommended_action": "approach_police",
+    "resolution_method": "police",
+    "documents_required": [
+      "bank statements",
+      "transaction records",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 83,
+    "title": "Financial Fraud Case 3",
+    "summary": "Customer reported digital payment scam through mobile app.",
+    "case_type": "financial fraud",
+    "court": "Cyber Crime Court",
+    "year": 2017,
+    "first_hearing_months": 3,
+    "resolution_time_months": 15,
+    "outcome": "investigation ordered",
+    "recommended_action": "approach_police",
+    "resolution_method": "police",
+    "documents_required": [
+      "bank statements",
+      "transaction records",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 84,
+    "title": "Financial Fraud Case 4",
+    "summary": "User complained about unauthorized withdrawal from bank account.",
+    "case_type": "financial fraud",
+    "court": "Cyber Crime Court",
+    "year": 2017,
+    "first_hearing_months": 3,
+    "resolution_time_months": 23,
+    "outcome": "settlement",
+    "recommended_action": "approach_police",
+    "resolution_method": "police",
+    "documents_required": [
+      "bank statements",
+      "transaction records",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 85,
+    "title": "Financial Fraud Case 5",
+    "summary": "Individual alleged credit card fraud by unknown party.",
+    "case_type": "financial fraud",
+    "court": "Delhi High Court",
+    "year": 2020,
+    "first_hearing_months": 2,
+    "resolution_time_months": 23,
+    "outcome": "settlement",
+    "recommended_action": "approach_police",
+    "resolution_method": "police",
+    "documents_required": [
+      "bank statements",
+      "transaction records",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 86,
+    "title": "Financial Fraud Case 6",
+    "summary": "Investor alleged fraudulent investment scheme.",
+    "case_type": "financial fraud",
+    "court": "Delhi High Court",
+    "year": 2020,
+    "first_hearing_months": 3,
+    "resolution_time_months": 15,
+    "outcome": "settlement",
+    "recommended_action": "approach_police",
+    "resolution_method": "police",
+    "documents_required": [
+      "bank statements",
+      "transaction records",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 87,
+    "title": "Financial Fraud Case 7",
+    "summary": "Victim reported unauthorized online banking transaction.",
+    "case_type": "financial fraud",
+    "court": "Cyber Crime Court",
+    "year": 2021,
+    "first_hearing_months": 2,
+    "resolution_time_months": 22,
+    "outcome": "settlement",
+    "recommended_action": "approach_police",
+    "resolution_method": "police",
+    "documents_required": [
+      "bank statements",
+      "transaction records",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 88,
+    "title": "Financial Fraud Case 8",
+    "summary": "User complained about unauthorized withdrawal from bank account.",
+    "case_type": "financial fraud",
+    "court": "Mumbai High Court",
+    "year": 2022,
+    "first_hearing_months": 3,
+    "resolution_time_months": 15,
+    "outcome": "settlement",
+    "recommended_action": "approach_police",
+    "resolution_method": "police",
+    "documents_required": [
+      "bank statements",
+      "transaction records",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 89,
+    "title": "Financial Fraud Case 9",
+    "summary": "Victim reported unauthorized online banking transaction.",
+    "case_type": "financial fraud",
+    "court": "Delhi High Court",
+    "year": 2022,
+    "first_hearing_months": 2,
+    "resolution_time_months": 15,
+    "outcome": "investigation ordered",
+    "recommended_action": "approach_police",
+    "resolution_method": "police",
+    "documents_required": [
+      "bank statements",
+      "transaction records",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 90,
+    "title": "Financial Fraud Case 10",
+    "summary": "User complained about unauthorized withdrawal from bank account.",
+    "case_type": "financial fraud",
+    "court": "Cyber Crime Court",
+    "year": 2018,
+    "first_hearing_months": 2,
+    "resolution_time_months": 12,
+    "outcome": "investigation ordered",
+    "recommended_action": "approach_police",
+    "resolution_method": "police",
+    "documents_required": [
+      "bank statements",
+      "transaction records",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 91,
+    "title": "Financial Fraud Case 11",
+    "summary": "Individual alleged credit card fraud by unknown party.",
+    "case_type": "financial fraud",
+    "court": "Delhi High Court",
+    "year": 2020,
+    "first_hearing_months": 3,
+    "resolution_time_months": 14,
+    "outcome": "settlement",
+    "recommended_action": "approach_police",
+    "resolution_method": "police",
+    "documents_required": [
+      "bank statements",
+      "transaction records",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 92,
+    "title": "Financial Fraud Case 12",
+    "summary": "User complained about unauthorized withdrawal from bank account.",
+    "case_type": "financial fraud",
+    "court": "Cyber Crime Court",
+    "year": 2019,
+    "first_hearing_months": 2,
+    "resolution_time_months": 21,
+    "outcome": "settlement",
+    "recommended_action": "approach_police",
+    "resolution_method": "police",
+    "documents_required": [
+      "bank statements",
+      "transaction records",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 93,
+    "title": "Financial Fraud Case 13",
+    "summary": "User complained about unauthorized withdrawal from bank account.",
+    "case_type": "financial fraud",
+    "court": "Mumbai High Court",
+    "year": 2022,
+    "first_hearing_months": 3,
+    "resolution_time_months": 15,
+    "outcome": "investigation ordered",
+    "recommended_action": "approach_police",
+    "resolution_method": "police",
+    "documents_required": [
+      "bank statements",
+      "transaction records",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 94,
+    "title": "Financial Fraud Case 14",
+    "summary": "Victim reported unauthorized online banking transaction.",
+    "case_type": "financial fraud",
+    "court": "Delhi High Court",
+    "year": 2019,
+    "first_hearing_months": 2,
+    "resolution_time_months": 23,
+    "outcome": "settlement",
+    "recommended_action": "approach_police",
+    "resolution_method": "police",
+    "documents_required": [
+      "bank statements",
+      "transaction records",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 95,
+    "title": "Financial Fraud Case 15",
+    "summary": "Victim reported unauthorized online banking transaction.",
+    "case_type": "financial fraud",
+    "court": "Cyber Crime Court",
+    "year": 2022,
+    "first_hearing_months": 2,
+    "resolution_time_months": 18,
+    "outcome": "investigation ordered",
+    "recommended_action": "approach_police",
+    "resolution_method": "police",
+    "documents_required": [
+      "bank statements",
+      "transaction records",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 96,
+    "title": "Financial Fraud Case 16",
+    "summary": "Customer reported digital payment scam through mobile app.",
+    "case_type": "financial fraud",
+    "court": "Cyber Crime Court",
+    "year": 2019,
+    "first_hearing_months": 2,
+    "resolution_time_months": 17,
+    "outcome": "investigation ordered",
+    "recommended_action": "approach_police",
+    "resolution_method": "police",
+    "documents_required": [
+      "bank statements",
+      "transaction records",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 97,
+    "title": "Financial Fraud Case 17",
+    "summary": "Investor alleged fraudulent investment scheme.",
+    "case_type": "financial fraud",
+    "court": "Cyber Crime Court",
+    "year": 2020,
+    "first_hearing_months": 2,
+    "resolution_time_months": 14,
+    "outcome": "settlement",
+    "recommended_action": "approach_police",
+    "resolution_method": "police",
+    "documents_required": [
+      "bank statements",
+      "transaction records",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 98,
+    "title": "Financial Fraud Case 18",
+    "summary": "User complained about unauthorized withdrawal from bank account.",
+    "case_type": "financial fraud",
+    "court": "Cyber Crime Court",
+    "year": 2019,
+    "first_hearing_months": 3,
+    "resolution_time_months": 12,
+    "outcome": "investigation ordered",
+    "recommended_action": "approach_police",
+    "resolution_method": "police",
+    "documents_required": [
+      "bank statements",
+      "transaction records",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 99,
+    "title": "Financial Fraud Case 19",
+    "summary": "Investor alleged fraudulent investment scheme.",
+    "case_type": "financial fraud",
+    "court": "Mumbai High Court",
+    "year": 2020,
+    "first_hearing_months": 3,
+    "resolution_time_months": 12,
+    "outcome": "settlement",
+    "recommended_action": "approach_police",
+    "resolution_method": "police",
+    "documents_required": [
+      "bank statements",
+      "transaction records",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 100,
+    "title": "Financial Fraud Case 20",
+    "summary": "User complained about unauthorized withdrawal from bank account.",
+    "case_type": "financial fraud",
+    "court": "Cyber Crime Court",
+    "year": 2023,
+    "first_hearing_months": 3,
+    "resolution_time_months": 15,
+    "outcome": "investigation ordered",
+    "recommended_action": "approach_police",
+    "resolution_method": "police",
+    "documents_required": [
+      "bank statements",
+      "transaction records",
+      "identity proof"
+    ]
+  },
+  {
+    "case_id": 101,
+    "title": "Family Law Case 1",
+    "summary": "Individual filed petition requesting maintenance from spouse.",
+    "case_type": "family law",
+    "court": "Family Court Bangalore",
+    "year": 2021,
+    "first_hearing_months": 2,
+    "resolution_time_months": 12,
+    "outcome": "maintenance granted",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "marriage certificate",
+      "identity proof",
+      "financial records"
+    ]
+  },
+  {
+    "case_id": 102,
+    "title": "Family Law Case 2",
+    "summary": "Parent filed case seeking child custody rights.",
+    "case_type": "family law",
+    "court": "Family Court Mumbai",
+    "year": 2020,
+    "first_hearing_months": 2,
+    "resolution_time_months": 14,
+    "outcome": "maintenance granted",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "marriage certificate",
+      "identity proof",
+      "financial records"
+    ]
+  },
+  {
+    "case_id": 103,
+    "title": "Family Law Case 3",
+    "summary": "Spouses filed petition for divorce citing marital dispute.",
+    "case_type": "family law",
+    "court": "Family Court Delhi",
+    "year": 2019,
+    "first_hearing_months": 3,
+    "resolution_time_months": 19,
+    "outcome": "settlement",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "marriage certificate",
+      "identity proof",
+      "financial records"
+    ]
+  },
+  {
+    "case_id": 104,
+    "title": "Family Law Case 4",
+    "summary": "Individual filed petition requesting maintenance from spouse.",
+    "case_type": "family law",
+    "court": "Family Court Mumbai",
+    "year": 2019,
+    "first_hearing_months": 2,
+    "resolution_time_months": 17,
+    "outcome": "settlement",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "marriage certificate",
+      "identity proof",
+      "financial records"
+    ]
+  },
+  {
+    "case_id": 105,
+    "title": "Family Law Case 5",
+    "summary": "Parent filed case seeking child custody rights.",
+    "case_type": "family law",
+    "court": "Family Court Bangalore",
+    "year": 2019,
+    "first_hearing_months": 3,
+    "resolution_time_months": 14,
+    "outcome": "maintenance granted",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "marriage certificate",
+      "identity proof",
+      "financial records"
+    ]
+  },
+  {
+    "case_id": 106,
+    "title": "Family Law Case 6",
+    "summary": "Spouses filed petition for divorce citing marital dispute.",
+    "case_type": "family law",
+    "court": "Family Court Delhi",
+    "year": 2021,
+    "first_hearing_months": 2,
+    "resolution_time_months": 16,
+    "outcome": "maintenance granted",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "marriage certificate",
+      "identity proof",
+      "financial records"
+    ]
+  },
+  {
+    "case_id": 107,
+    "title": "Family Law Case 7",
+    "summary": "Couple disputed division of marital assets.",
+    "case_type": "family law",
+    "court": "Family Court Mumbai",
+    "year": 2019,
+    "first_hearing_months": 2,
+    "resolution_time_months": 19,
+    "outcome": "settlement",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "marriage certificate",
+      "identity proof",
+      "financial records"
+    ]
+  },
+  {
+    "case_id": 108,
+    "title": "Family Law Case 8",
+    "summary": "Family dispute arose regarding guardianship of minor child.",
+    "case_type": "family law",
+    "court": "Family Court Bangalore",
+    "year": 2021,
+    "first_hearing_months": 3,
+    "resolution_time_months": 16,
+    "outcome": "settlement",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "marriage certificate",
+      "identity proof",
+      "financial records"
+    ]
+  },
+  {
+    "case_id": 109,
+    "title": "Family Law Case 9",
+    "summary": "Couple disputed division of marital assets.",
+    "case_type": "family law",
+    "court": "Family Court Bangalore",
+    "year": 2019,
+    "first_hearing_months": 2,
+    "resolution_time_months": 14,
+    "outcome": "settlement",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "marriage certificate",
+      "identity proof",
+      "financial records"
+    ]
+  },
+  {
+    "case_id": 110,
+    "title": "Family Law Case 10",
+    "summary": "Spouses filed petition for divorce citing marital dispute.",
+    "case_type": "family law",
+    "court": "Family Court Bangalore",
+    "year": 2021,
+    "first_hearing_months": 2,
+    "resolution_time_months": 17,
+    "outcome": "maintenance granted",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "marriage certificate",
+      "identity proof",
+      "financial records"
+    ]
+  },
+  {
+    "case_id": 111,
+    "title": "Family Law Case 11",
+    "summary": "Couple disputed division of marital assets.",
+    "case_type": "family law",
+    "court": "Family Court Mumbai",
+    "year": 2020,
+    "first_hearing_months": 3,
+    "resolution_time_months": 20,
+    "outcome": "maintenance granted",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "marriage certificate",
+      "identity proof",
+      "financial records"
+    ]
+  },
+  {
+    "case_id": 112,
+    "title": "Family Law Case 12",
+    "summary": "Individual filed petition requesting maintenance from spouse.",
+    "case_type": "family law",
+    "court": "Family Court Mumbai",
+    "year": 2019,
+    "first_hearing_months": 3,
+    "resolution_time_months": 12,
+    "outcome": "settlement",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "marriage certificate",
+      "identity proof",
+      "financial records"
+    ]
+  },
+  {
+    "case_id": 113,
+    "title": "Family Law Case 13",
+    "summary": "Family dispute arose regarding guardianship of minor child.",
+    "case_type": "family law",
+    "court": "Family Court Mumbai",
+    "year": 2021,
+    "first_hearing_months": 3,
+    "resolution_time_months": 14,
+    "outcome": "maintenance granted",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "marriage certificate",
+      "identity proof",
+      "financial records"
+    ]
+  },
+  {
+    "case_id": 114,
+    "title": "Family Law Case 14",
+    "summary": "Family dispute arose regarding guardianship of minor child.",
+    "case_type": "family law",
+    "court": "Family Court Bangalore",
+    "year": 2019,
+    "first_hearing_months": 2,
+    "resolution_time_months": 14,
+    "outcome": "maintenance granted",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "marriage certificate",
+      "identity proof",
+      "financial records"
+    ]
+  },
+  {
+    "case_id": 115,
+    "title": "Family Law Case 15",
+    "summary": "Parent filed case seeking child custody rights.",
+    "case_type": "family law",
+    "court": "Family Court Bangalore",
+    "year": 2018,
+    "first_hearing_months": 3,
+    "resolution_time_months": 18,
+    "outcome": "maintenance granted",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "marriage certificate",
+      "identity proof",
+      "financial records"
+    ]
+  },
+  {
+    "case_id": 116,
+    "title": "Family Law Case 16",
+    "summary": "Spouses filed petition for divorce citing marital dispute.",
+    "case_type": "family law",
+    "court": "Family Court Delhi",
+    "year": 2021,
+    "first_hearing_months": 3,
+    "resolution_time_months": 18,
+    "outcome": "maintenance granted",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "marriage certificate",
+      "identity proof",
+      "financial records"
+    ]
+  },
+  {
+    "case_id": 117,
+    "title": "Family Law Case 17",
+    "summary": "Spouses filed petition for divorce citing marital dispute.",
+    "case_type": "family law",
+    "court": "Family Court Delhi",
+    "year": 2020,
+    "first_hearing_months": 2,
+    "resolution_time_months": 13,
+    "outcome": "settlement",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "marriage certificate",
+      "identity proof",
+      "financial records"
+    ]
+  },
+  {
+    "case_id": 118,
+    "title": "Family Law Case 18",
+    "summary": "Couple disputed division of marital assets.",
+    "case_type": "family law",
+    "court": "Family Court Mumbai",
+    "year": 2018,
+    "first_hearing_months": 3,
+    "resolution_time_months": 19,
+    "outcome": "maintenance granted",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "marriage certificate",
+      "identity proof",
+      "financial records"
+    ]
+  },
+  {
+    "case_id": 119,
+    "title": "Family Law Case 19",
+    "summary": "Family dispute arose regarding guardianship of minor child.",
+    "case_type": "family law",
+    "court": "Family Court Delhi",
+    "year": 2018,
+    "first_hearing_months": 2,
+    "resolution_time_months": 13,
+    "outcome": "maintenance granted",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "marriage certificate",
+      "identity proof",
+      "financial records"
+    ]
+  },
+  {
+    "case_id": 120,
+    "title": "Family Law Case 20",
+    "summary": "Individual filed petition requesting maintenance from spouse.",
+    "case_type": "family law",
+    "court": "Family Court Delhi",
+    "year": 2017,
+    "first_hearing_months": 2,
+    "resolution_time_months": 14,
+    "outcome": "settlement",
+    "recommended_action": "mediation",
+    "resolution_method": "mediation",
+    "documents_required": [
+      "marriage certificate",
+      "identity proof",
+      "financial records"
+    ]
+  }
+]
