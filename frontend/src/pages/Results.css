@@ -1,0 +1,673 @@
+/* ═══════════════════════════════════════════════════════════
+   Screen 2 — Bento-Box Dashboard
+   ═══════════════════════════════════════════════════════════ */
+
+.results-page {
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+}
+
+.nav-left {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.nav-back {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: var(--radius);
+  color: var(--text-secondary);
+  transition: all var(--transition-base);
+}
+
+.nav-back:hover {
+  background: var(--accent-primary-bg);
+  color: var(--accent-primary);
+}
+
+/* ─── Bento Grid ────────────────────────────────────────── */
+.bento-grid {
+  width: 95vw;
+  max-width: 1600px;
+  margin: 24px auto 48px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: auto;
+  gap: 16px;
+  padding: 0 16px;
+}
+
+/* Grid placement */
+.bento-1 { grid-column: 1 / 3; }            /* Top left, large — spans 2 cols */
+.bento-2 { grid-column: 3 / 4; }            /* Top right, square */
+.bento-3 { grid-column: 1 / 4; }            /* Middle, full width */
+.bento-4 { grid-column: 1 / 2; }            /* Bottom left */
+.bento-5 { grid-column: 2 / 3; }            /* Bottom middle */
+.bento-6 { grid-column: 3 / 4; }            /* Bottom right */
+
+/* ─── Bento Card Base ───────────────────────────────────── */
+.bento {
+  padding: clamp(20px, 2.5vw, 28px);
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  overflow: hidden;
+}
+
+.bento::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: linear-gradient(90deg, var(--accent-primary), transparent 60%);
+  opacity: 0.35;
+}
+
+.bento-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.bento-header h2 {
+  font-size: clamp(1rem, 1.5vw, 1.25rem);
+  margin: 0;
+}
+
+.bento-body {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.bento-body--center {
+  align-items: center;
+}
+
+/* ─── Bento 1 — Legal Translation ───────────────────────── */
+.legal-summary {
+  font-size: 0.92rem;
+  line-height: 1.75;
+  color: var(--text-secondary);
+}
+
+.legal-summary strong {
+  color: var(--text-primary);
+  font-weight: 600;
+}
+
+.legal-points {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 4px;
+}
+
+.legal-point {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+}
+
+.legal-point-marker {
+  flex-shrink: 0;
+  width: 4px;
+  border-radius: 2px;
+  min-height: 100%;
+  align-self: stretch;
+}
+
+.legal-point p {
+  font-size: 0.85rem;
+  line-height: 1.65;
+  color: var(--text-secondary);
+}
+
+.legal-point strong {
+  color: var(--text-primary);
+}
+
+/* ─── Bento 2 — Case Viability Donut ────────────────────── */
+.donut-wrap {
+  position: relative;
+  width: 180px;
+  height: 110px;
+  margin: 0 auto;
+}
+
+.donut-svg {
+  width: 100%;
+  height: 100%;
+}
+
+.donut-value {
+  transition: stroke-dashoffset 1.2s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.donut-label {
+  position: absolute;
+  bottom: 4px;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.donut-pct {
+  font-family: var(--font-serif);
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  line-height: 1;
+}
+
+.donut-sub {
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-tertiary);
+  margin-top: 2px;
+}
+
+.viability-list {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.viability-group h4 {
+  font-family: var(--font-sans);
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 6px;
+}
+
+.viability-heading--pro {
+  color: var(--semantic-positive);
+}
+
+.viability-heading--con {
+  color: var(--semantic-warning);
+}
+
+.viability-group ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.viability-group li {
+  font-size: 0.8rem;
+  line-height: 1.5;
+  color: var(--text-secondary);
+  padding-left: 14px;
+  position: relative;
+}
+
+.viability-group li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 7px;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+}
+
+.viability-heading--pro + ul li::before {
+  background: var(--semantic-positive);
+}
+
+.viability-heading--con + ul li::before {
+  background: var(--semantic-warning);
+}
+
+/* ─── Bento 3 — Timeline ───────────────────────────────── */
+.timeline {
+  width: 100%;
+  overflow-x: auto;
+  padding: 10px 0 4px;
+  scrollbar-width: none;
+}
+.timeline::-webkit-scrollbar { display: none; }
+
+.timeline-track {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  min-width: 700px;
+  padding: 0 20px;
+}
+
+.timeline-track::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 20px;
+  right: 20px;
+  height: 2px;
+  background: var(--timeline-line);
+  transform: translateY(-5px);
+}
+
+.timeline-node {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  position: relative;
+  z-index: 1;
+}
+
+.timeline-time {
+  font-size: 0.68rem;
+  font-weight: 600;
+  color: var(--text-tertiary);
+  white-space: nowrap;
+  letter-spacing: 0.02em;
+}
+
+.timeline-dot {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--timeline-node-inactive);
+  border: 3px solid var(--canvas);
+  transition: all var(--transition-base);
+  box-shadow: 0 0 0 2px var(--timeline-node-inactive);
+}
+
+.timeline-node--active .timeline-dot {
+  background: var(--timeline-node);
+  box-shadow: 0 0 0 2px var(--timeline-node), 0 0 0 5px var(--accent-primary-bg);
+}
+
+.timeline-node--done .timeline-dot {
+  background: var(--semantic-positive);
+  box-shadow: 0 0 0 2px var(--semantic-positive);
+}
+
+.timeline-label {
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: var(--text-tertiary);
+  white-space: nowrap;
+}
+
+.timeline-node--active .timeline-label {
+  color: var(--text-primary);
+  font-weight: 600;
+}
+
+.timeline-divider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2;
+  margin: 0 10px;
+  max-width: 260px;
+  text-align: center;
+}
+
+.timeline-divider-text {
+  font-size: 0.65rem;
+  line-height: 1.45;
+  color: var(--text-tertiary);
+  font-style: italic;
+  background: var(--canvas, #0A1128); /* fallback */
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 1px dashed var(--timeline-node-inactive);
+}
+
+.timeline-node--faded {
+  opacity: 0.35;
+  cursor: help;
+}
+
+.timeline-node--faded:hover {
+  opacity: 0.55;
+}
+
+
+/* ─── Bento 4 — Outcome Simulation ──────────────────────── */
+.outcome-bars {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.progress-item {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.progress-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.progress-label {
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: var(--text-secondary);
+}
+
+.progress-value {
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  font-family: var(--font-sans);
+}
+
+.progress-track {
+  height: 8px;
+  border-radius: 4px;
+  background: var(--progress-track);
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  border-radius: 4px;
+  transition: width 1s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.outcome-callout {
+  display: flex;
+  gap: 14px;
+  align-items: flex-start;
+  padding: 16px;
+  margin-top: 4px;
+  border-left: none;
+}
+
+.callout-indicator {
+  flex-shrink: 0;
+  width: 4px;
+  min-height: 100%;
+  align-self: stretch;
+  border-radius: 2px;
+  background: var(--semantic-positive);
+}
+
+.callout-title {
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--semantic-positive);
+  margin-bottom: 4px;
+}
+
+.callout-text {
+  font-size: 0.82rem;
+  line-height: 1.6;
+  color: var(--text-secondary);
+}
+
+.callout-text strong {
+  color: var(--text-primary);
+}
+
+/* ─── Bento 5 — Precedent Engine ────────────────────────── */
+.case-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.case-card {
+  padding: 16px;
+  border-radius: var(--radius);
+  background: var(--accent-primary-bg);
+  border: 1px solid var(--surface-border);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  transition: all var(--transition-base);
+}
+
+.case-card:hover {
+  border-color: var(--accent-primary-border);
+  box-shadow: var(--shadow-sm);
+  transform: translateY(-1px);
+}
+
+.case-card-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.case-card-title {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  line-height: 1.4;
+  margin: 0;
+}
+
+.match-badge {
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  padding: 3px 10px;
+  border-radius: 12px;
+  font-size: 0.7rem;
+  font-weight: 700;
+  background: var(--match-badge-bg);
+  color: var(--match-badge-text);
+  white-space: nowrap;
+  font-family: var(--font-sans);
+}
+
+.case-card-citation {
+  font-size: 0.73rem;
+  color: var(--text-tertiary);
+  line-height: 1.4;
+}
+
+.bns-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 10px;
+  border-radius: 6px;
+  font-size: 0.68rem;
+  font-weight: 600;
+  background: var(--bns-badge-bg);
+  color: var(--bns-badge-text);
+  border: 1px solid var(--bns-badge-border);
+  width: fit-content;
+  font-family: var(--font-sans);
+}
+
+/* ─── Bento 6 — Filing Checklist ────────────────────────── */
+.checklist {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.checklist-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 12px;
+  border-radius: 6px;
+  transition: background var(--transition-base);
+}
+
+.checklist-item:hover {
+  background: var(--accent-primary-bg);
+}
+
+.checklist-item--required {
+  background: var(--semantic-warning-bg);
+}
+
+.checklist-item--required:hover {
+  background: var(--semantic-warning-bg);
+}
+
+.checklist-icon {
+  flex-shrink: 0;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.checklist-icon--done {
+  background: var(--semantic-positive-bg);
+  color: var(--checklist-done);
+}
+
+.checklist-icon--missing {
+  background: var(--semantic-warning-bg);
+  color: var(--checklist-missing);
+}
+
+.checklist-label {
+  flex: 1;
+  font-size: 0.84rem;
+  font-weight: 500;
+  color: var(--text-primary);
+}
+
+.checklist-label--done {
+  text-decoration: line-through;
+  color: var(--text-tertiary);
+}
+
+.checklist-tag {
+  flex-shrink: 0;
+  padding: 2px 9px;
+  border-radius: 10px;
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  background: var(--semantic-warning-bg);
+  color: var(--semantic-warning);
+  font-family: var(--font-sans);
+}
+
+.checklist-tag--done {
+  background: var(--semantic-positive-bg);
+  color: var(--semantic-positive);
+}
+
+/* ─── Success Banner ────────────────────────────────────── */
+.success-banner {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 24px;
+  margin: 12px auto 0;
+  max-width: 1600px;
+  width: 95vw;
+  border-radius: var(--radius);
+  background: var(--semantic-positive-bg);
+  border: 1px solid rgba(5, 150, 105, 0.2);
+  color: var(--semantic-positive);
+  font-size: 0.88rem;
+  font-weight: 500;
+  font-family: var(--font-sans);
+}
+
+.success-icon {
+  flex-shrink: 0;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: var(--semantic-positive);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.75rem;
+  font-weight: 700;
+}
+
+.btn-sm {
+  padding: 6px 14px;
+  font-size: 0.78rem;
+}
+
+/* ─── Responsive ────────────────────────────────────────── */
+@media (max-width: 1200px) {
+  .bento-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .bento-1 { grid-column: 1 / 3; }
+  .bento-2 { grid-column: 1 / 2; }
+  .bento-3 { grid-column: 1 / 3; }
+  .bento-4 { grid-column: 1 / 2; }
+  .bento-5 { grid-column: 2 / 3; }
+  .bento-6 { grid-column: 1 / 3; }
+}
+
+@media (max-width: 768px) {
+  .bento-grid {
+    grid-template-columns: 1fr;
+    width: 100%;
+    padding: 0 12px;
+  }
+  .bento-1,
+  .bento-2,
+  .bento-3,
+  .bento-4,
+  .bento-5,
+  .bento-6 {
+    grid-column: 1 / -1;
+  }
+
+  .nav-actions .btn {
+    display: none;
+  }
+
+  .nav-actions .btn:first-of-type {
+    display: inline-flex;
+    padding: 8px 14px;
+    font-size: 0.78rem;
+  }
+}
+
+@media (max-width: 540px) {
+  .bento-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .case-card-top {
+    flex-direction: column;
+  }
+}
