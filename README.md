@@ -115,13 +115,15 @@ The backend provides an interactive API playground:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please ensure you follow the existing design system for UI changes and provide docstrings for any new backend services.
-
 ## 📄 License
 
 This project is licensed under the MIT License.
 
 ---
 Built for the **Advanced Agentic Coding** initiative.
+
+## Contributors
+- Vineeth Bhatta
+- Vineth Raj Naik
+- Vikyath T Kotian
+- Jnan Rai
